@@ -12,7 +12,7 @@ I've been programming since I was 12, starting on a C64, and these days I mostly
  
 - 🎮 **Hexline 61** – a small browser game I built ([play it here](https://www.gunter-heiss.com/))
 - 🧪 More experiments and creative outlets on my website
-- 
+
 ## Find me
  
 - 🌐 [gunter-heiss.com](https://www.gunter-heiss.com/)
