@@ -8,11 +8,6 @@ I've been programming since I was 12, starting on a C64, and these days I mostly
  
 **Stack I know well:** Dynamics 365 / CRM · .NET · Azure · SQL Server · Service Fabric · Power Platform
  
-## Side projects
- 
-- 🎮 **Hexline 61** – a small browser game I built ([play it here](https://www.gunter-heiss.com/))
-- 🧪 More experiments and creative outlets on my website
-
 ## Find me
  
 - 🌐 [gunter-heiss.com](https://www.gunter-heiss.com/)
